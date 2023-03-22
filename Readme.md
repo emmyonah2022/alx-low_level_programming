@@ -1,1 +1,1 @@
-0x19 c stacks queue-lifo-fifo
+0X19 C STACKS QUEUES-LIFO-FIFO
